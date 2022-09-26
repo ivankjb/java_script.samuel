@@ -29,4 +29,3 @@ function auxiliar() {
 
 
 
-function(cadena){
